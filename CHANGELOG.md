@@ -2,6 +2,7 @@
 
 *Bug Fixes*
 - Fix a bug causing secret generation from ejson to fail when decryption succeeded but a warning was also emitted. [#647](https://github.com/Shopify/krane/pull/647)
+- Help ruby correctly identify kubectl output encoding. [#646](https://github.com/Shopify/krane/pull/646)
 
 # 1.0.0
 
